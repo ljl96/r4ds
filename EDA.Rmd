@@ -1,4 +1,6 @@
+---
 output: rmarkdown::github_document
+---
 
 # Exploratory Data Analysis
 
